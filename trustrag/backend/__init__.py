@@ -1,0 +1,1 @@
+"""TrustRAG FastAPI backend package."""

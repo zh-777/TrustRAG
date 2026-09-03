@@ -1,0 +1,14 @@
+sentence-transformers
+faiss-cpu
+transformers
+torch
+pandas
+scikit-learn
+anthropic
+openai
+numpy
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+google-genai
